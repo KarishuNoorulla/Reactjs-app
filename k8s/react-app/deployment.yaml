@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: noorulla007/react-app:latest
+        image: noorulla007/disney-web
         ports:
         - containerPort: 80
